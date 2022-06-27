@@ -55,7 +55,7 @@ npm run codegen
 npm run dev
 
 ## Schema
-os schemas devem ser criado no GraphCMS(consultar a documentação para auxilio)
+os esquemas devem ser criado no GraphCMS(consultar a documentação para auxilio)
 ```
 
 ## 🛠️ Construído com
